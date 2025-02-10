@@ -5,8 +5,8 @@
 <p align="left"> 
   I'm a computer science student
   
-- 🎓 last year computer science student at Autonomus University of Barcelona
-- 🔭 I’m currently working on diverse projects related with mobile and machine learning 
+- 🎓 Final year computer science student at Autonomus University of Barcelona
+- 🔭 I’m currently working on projects with social impact! (a.k.a UNImate)
 - 🌱 I’m currently learning about full-stack development, project management and prototyping
 - 🤔 Exploring new technologies and new solutions
 - 😄 Pronouns: He/him

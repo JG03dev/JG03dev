@@ -5,10 +5,11 @@
 <p align="left"> 
   I'm a computer science student
   
-- 🎓 Final year computer science student at Autonomus University of Barcelona
-- 🔭 I’m currently working on projects with social impact! (a.k.a NOWS project)
-- 🌱 I’m currently learning about full-stack development, project management and prototyping
-- 🤔 Exploring new technologies and new solutions
+- 🎓 Computer Science Graduate at Autonomus University of Barcelona
+- 🔭 Working on exciting projects with social impact! (a.k.a NOWS project)
+- 🚀 Self-hosting my own web-apps and AI-apps in my personal homelab
+- 🌱 I’m currently learning about software development, project management and prototyping
+- 🤔 Exploring new niche technologies and solutions
 - 😄 Pronouns: He/him
 <!-- - ⚡ Fun fact: -->
 <!-- FUN_FACT_PLACEHOLDER -->
